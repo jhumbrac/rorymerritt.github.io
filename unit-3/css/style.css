@@ -1,0 +1,11 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+
+section {
+    padding:4em 0;
+}
+#intro {
+    background:url(../images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
